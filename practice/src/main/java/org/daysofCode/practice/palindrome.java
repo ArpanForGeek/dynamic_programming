@@ -14,7 +14,7 @@ public class palindrome {
 	// if(number == rev) System.out.println("Palindrome");
 	// }
 
-	//using recursion
+	// using recursion
 	private static boolean isPalindrome(int number) {
 		temp = number;
 		if (temp != 0) {
