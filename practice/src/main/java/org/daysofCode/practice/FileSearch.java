@@ -24,7 +24,7 @@ public class FileSearch {
 
 	public static void main(String[] args) {
 
-		new FileSearch().search(new File("C:\\Go"), "XMPLicense.pdf");
+		search(new File("C:\\Go"), "XMPLicense.pdf");
 
 	}
 

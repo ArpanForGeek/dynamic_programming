@@ -18,7 +18,7 @@ public class CountDown {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
-		new CountDown().countDown(5);
+		countDown(5);
 
 	}
 
