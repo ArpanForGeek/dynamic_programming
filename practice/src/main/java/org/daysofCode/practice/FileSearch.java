@@ -23,9 +23,7 @@ public class FileSearch {
 	}
 
 	public static void main(String[] args) {
-
 		search(new File("C:\\Go"), "XMPLicense.pdf");
-
 	}
 
 }

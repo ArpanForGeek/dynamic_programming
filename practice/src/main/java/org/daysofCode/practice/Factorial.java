@@ -3,6 +3,7 @@ package org.daysofCode.practice;
 public class Factorial {
 
 	static int fact = 1;
+	
 	// without using recursion recursion
 	// private static void factorial(int number) {
 	// int fact = 1;
